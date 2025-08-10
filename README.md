@@ -20,13 +20,20 @@ Download Photo to Frame today and start visualizing your walls in a whole new wa
 
 Photo to Frame does not collect any personal data or personally identifiable information (PII). We do not gather, store, or transmit any data from your device while you use our application.
 
-### Usage Data
-
-Photo to Frame does not collect any usage data or analytics about your interaction with the application. We respect your privacy and believe in providing a safe and secure user experience without compromising your personal information.
-
 ### Third-Party Services
 
 Photo to Frame does not utilize any third-party services or frameworks that may collect your personal information or track your activity.
+
+### Privacy Policy & Usage Data
+Last updated: August 10, 2025
+
+Photo to Frame does not collect any usage data or analytics about your interaction with the application. We respect your privacy and believe in providing a safe and secure user experience without compromising your personal information.
+
+Camera & Photo Library Access
+
+The camera is used only to enable AR functionality and preview frames on your wall.
+The photo library is accessed only so you can select images to preview in the app.
+Your photos never leave your device and are not stored by us or any third party.
 
 ### Support
 
