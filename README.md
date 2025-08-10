@@ -1,5 +1,4 @@
-
-<img width="1024" height="1024" alt="picture-to-frame-save-iOS-Default-1024x1024@1xcopy" src="https://github.com/user-attachments/assets/754106cb-d7d4-4392-ae31-a8d1e73667cb" />
+<img width="64" height="64" alt="picture-to-frame-save-iOS-Default-64x64@1x" src="https://github.com/user-attachments/assets/88b3f627-5a60-4ab7-9b41-e9f49162fa33" />
 
 # Photo-to-Frame
 
